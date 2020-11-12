@@ -1,0 +1,8 @@
+name: lpm
+copyright: (c) 2020 Learniaa team
+license: GNU GPL v3.0
+unpack: /
+build: 1399-08-20
+version: 0.1.0
+description: Learniaa Package Manager
+compile: Yes
